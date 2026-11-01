@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "path": "/", "title": "Home" },
+    { "path": "/collections/:slug", "title": "Collection" },
+    { "path": "/products/:slug", "title": "Product" },
+    { "path": "/bag", "title": "Shopping bag" },
+    { "path": "/admin", "title": "Store admin" }
+  ]
+}
